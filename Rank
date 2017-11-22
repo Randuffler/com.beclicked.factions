@@ -5,7 +5,7 @@ import java.util.UUID;
 
 import org.bukkit.entity.Player;
 
-import com.beclicked.factions.config.PlayerConfig;
+import com.beclicked.factions.PlayerConfig;
 
 public enum Rank {
 	
